@@ -1,3 +1,5 @@
+"use strict"
+
 const firstImage = document.getElementById("first-image")
 const lastImage = document.getElementById("last-image")
 const title = document.getElementById("title")
